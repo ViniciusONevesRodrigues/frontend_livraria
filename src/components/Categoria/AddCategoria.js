@@ -39,7 +39,7 @@ const AddCategoria = () => {
                         <button type="submit" className="btn btn-primary"
                             onClick={handleClick}>Cadastrar</button>
                         <br />
-                        <Link to="/categorias">Listar Categorias</Link>
+                        <Link to="/categoria">Listar Categorias</Link>
                     </form>
                 </div>
             </div>

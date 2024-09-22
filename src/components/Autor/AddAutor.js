@@ -39,7 +39,7 @@ const AddAutor = () => {
                         <button type="submit" className="btn btn-primary"
                             onClick={handleClick}>Cadastrar</button>
                         <br />
-                        <Link to="/autores">Listar Autores</Link>
+                        <Link to="/autor">Listar Autores</Link>
                     </form>
                 </div>
             </div>

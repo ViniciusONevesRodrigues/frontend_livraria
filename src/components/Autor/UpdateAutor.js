@@ -70,7 +70,7 @@ function UpdateAutor() {
                     onClick={handleClick}>Alterar</button>
             </form>
             <div className='container d-flex justify-content-center'>
-                <Link to="/">Veja todos os autores</Link>
+                <Link to="/autor">Veja todos os autores</Link>
             </div>
         </div>
     );

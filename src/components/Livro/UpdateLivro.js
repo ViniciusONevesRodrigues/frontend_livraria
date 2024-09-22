@@ -91,7 +91,7 @@ function UpdateLivro() {
                     onClick={handleClick}>Alterar</button>
             </form>
             <div className='container d-flex justify-content-center'>
-                <Link to="/">Veja todos os livros</Link>
+                <Link to="/livro">Veja todos os livros</Link>
             </div>
         </div>
     );

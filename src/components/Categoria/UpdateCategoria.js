@@ -70,7 +70,7 @@ function UpdateCategoria() {
                     onClick={handleClick}>Alterar</button>
             </form>
             <div className='container d-flex justify-content-center'>
-                <Link to="/">Veja todas as categorias</Link>
+                <Link to="/categoria">Veja todas as categorias</Link>
             </div>
         </div>
     );
